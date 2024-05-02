@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 179953178665811990}
   - component: {fileID: 2289254672362166852}
   m_Layer: 0
-  m_Name: PineConesFalling
+  m_Name: DeciduousLeavesFalling
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1538,7 +1538,7 @@ ParticleSystem:
     uvChannelMask: -1
     rowMode: 1
     sprites:
-    - sprite: {fileID: -8978622596343774240, guid: 5d22327a2a3d2a049a8a59a708d527fe,
+    - sprite: {fileID: -225264056889025803, guid: d241c496741a12d4290e12ba81dd6724,
         type: 3}
     flipU: 0
     flipV: 0
@@ -4792,8 +4792,8 @@ ParticleSystemRenderer:
   m_SortingOrder: 1
   m_RenderMode: 0
   m_SortMode: 0
-  m_MinParticleSize: 0.02
-  m_MaxParticleSize: 0.03
+  m_MinParticleSize: 0.03
+  m_MaxParticleSize: 0.05
   m_CameraVelocityScale: 0
   m_VelocityScale: 0
   m_LengthScale: 2
