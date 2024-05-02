@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b6d6e423cef15d64caf8e7690b5271b9, type: 3}
-  m_Name: ToolNoneWateringCanLiftToolRight
+  m_Name: ToolNoneWateringCanLiftToolUp
   m_EditorClassIdentifier: 
-  animationClip: {fileID: 7400000, guid: 857849dbe4ba0c449b1131c70260b76c, type: 2}
-  animationName: 22
+  animationClip: {fileID: 7400000, guid: 3bb1b4801b46bc84e84fdbd352aeefbe, type: 2}
+  animationName: 20
   characterPart: 3
   partVariantColour: 0
   partVariantType: 6
